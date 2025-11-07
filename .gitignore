@@ -1,0 +1,28 @@
+# Chrome Extension
+.DS_Store
+Thumbs.db
+
+# Node modules (if any)
+node_modules/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build files
+dist/
+build/
+
+# API Keys (if stored separately)
+.env
+config.local.js
